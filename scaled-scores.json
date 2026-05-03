@@ -1,0 +1,500 @@
+{
+  "opening": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 0, "trust": 3, "timing": 1 } },
+    { "index": 1, "scores": { "structure": -3, "specificity": 0, "trust": -1, "timing": -4 } },
+    { "index": 2, "scores": { "structure": 3, "specificity": 0, "trust": 1, "timing": 1 } }
+  ],
+  "deepdive_current": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 1, "scores": { "structure": 1, "specificity": 0, "trust": 4, "timing": 1 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": 0, "trust": -1, "timing": -3 } }
+  ],
+  "ask_awareness": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 1, "scores": { "structure": 1, "specificity": 0, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 1, "trust": 0, "timing": 0 } }
+  ],
+  "ask_survey": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 4, "timing": 1 } },
+    { "index": 2, "scores": { "structure": -4, "specificity": 0, "trust": -3, "timing": -1 } }
+  ],
+  "empathy_awareness": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": 0, "trust": -3, "timing": -3 } }
+  ],
+  "empathy_system": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 0, "specificity": 1, "trust": 0, "timing": 0 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 3, "timing": -1 } }
+  ],
+  "hidden_care": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 1, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 3, "trust": 0, "timing": -3 } }
+  ],
+  "hidden_care_detail": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 1, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 1, "specificity": 1, "trust": 4, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 3, "trust": 0, "timing": -3 } }
+  ],
+  "hidden_care_risk": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 1, "specificity": 1, "trust": 4, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 3, "specificity": 1, "trust": 1, "timing": 0 } }
+  ],
+  "survey_detail": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 1 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 1, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 3, "trust": 1, "timing": 0 } }
+  ],
+  "gap_analysis": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 1, "specificity": 1, "trust": 3, "timing": 0 } },
+    { "index": 2, "scores": { "structure": 3, "specificity": 1, "trust": 1, "timing": 0 } }
+  ],
+  "economic_impact": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 1, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": -1, "timing": -3 } }
+  ],
+  "effectiveness_wall": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": 0 } }
+  ],
+  "concept_shift": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 4, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 0, "trust": 1, "timing": 0 } }
+  ],
+  "action_focus": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": 0 } }
+  ],
+  "prevention_concept": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 1, "trust": 0, "timing": 0 } }
+  ],
+  "career_framing": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 1, "timing": 0 } }
+  ],
+  "package_intro": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 3 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 1, "trust": 0, "timing": 0 } }
+  ],
+  "tailored_proposal": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 0, "trust": 1, "timing": -1 } }
+  ],
+  "seminar_results": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "satisfaction_detail": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 1, "timing": 0 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 3, "trust": 0, "timing": 0 } }
+  ],
+  "roadmap": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 3 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 1, "trust": -1, "timing": -1 } }
+  ],
+  "planning_together": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 3, "trust": 1, "timing": 0 } }
+  ],
+  "concrete_plan": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 4 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 1, "trust": 4, "timing": 4 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "timing_confirmation": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 1 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "timing_options": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 0, "timing": -1 } }
+  ],
+  "premature_pitch": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 0, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": -3, "specificity": 0, "trust": -3, "timing": -3 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 1, "timing": 0 } }
+  ],
+  "miss_opportunity": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 0, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": -4, "specificity": 0, "trust": -3, "timing": -1 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": 0, "trust": -1, "timing": 0 } }
+  ],
+  "recovery_current": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 4, "timing": 2 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": 0, "trust": -1, "timing": -3 } }
+  ],
+  "recovery_challenge": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 0, "trust": 3, "timing": 0 } }
+  ],
+  "just_empathy": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": 0 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "vague_question": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 1, "scores": { "structure": -1, "specificity": 0, "trust": -1, "timing": -3 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 3, "timing": 1 } }
+  ],
+  "ask_cause": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 1, "timing": 0 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 3, "timing": -1 } }
+  ],
+  "ask_demographics": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": 0 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 1, "timing": 0 } }
+  ],
+  "parent_age": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 4, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 1, "timing": 0 } }
+  ],
+  "awareness_check": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 1, "timing": 0 } }
+  ],
+  "productivity_impact": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": -3 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 1, "timing": 0 } }
+  ],
+  "psychological_safety": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 1, "timing": 0 } }
+  ],
+  "manager_education": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 3, "trust": 1, "timing": 0 } }
+  ],
+  "effectiveness_intro": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": 0 } }
+  ],
+  "next_action": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 1, "trust": 4, "timing": 3 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -3 } }
+  ],
+  "ask_data": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 4, "timing": 1 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 1, "trust": -1, "timing": 0 } }
+  ],
+  "just_acknowledge": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "general_proposal": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 1, "specificity": 3, "trust": 1, "timing": 0 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "general_response": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 4, "trust": 1, "timing": 1 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "general_acknowledge": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": -3 } },
+    { "index": 2, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": -3 } }
+  ],
+  "service_intro": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 0, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": -3 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 3, "trust": 0, "timing": -3 } }
+  ],
+  "lcat_intro": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 4, "trust": 1, "timing": -3 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "lcat_intro_good": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 4, "trust": 1, "timing": -3 } },
+    { "index": 2, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } }
+  ],
+  "lcat_detail": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 4 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 1, "trust": -1, "timing": -1 } }
+  ],
+  "seminar_intro": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "seminar_type": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 1, "timing": 0 } }
+  ],
+  "manager_perspective": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 1, "timing": 0 } }
+  ],
+  "both_seminars": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 1, "trust": -1, "timing": -1 } }
+  ],
+  "budget_discussion": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 1, "trust": 4, "timing": 4 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "budget_timing": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 4 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "ask_budget": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 3, "trust": 0, "timing": 0 } }
+  ],
+  "realistic_proposal": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 4 } },
+    { "index": 1, "scores": { "structure": 1, "specificity": 1, "trust": 1, "timing": -1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "budget_constraint": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 1, "specificity": 0, "trust": 0, "timing": -1 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "case_study": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "mandatory_approach": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 1 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 1 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": 1, "trust": -3, "timing": -3 } }
+  ],
+  "tailored_approach": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 0, "timing": -1 } }
+  ],
+  "recommend_mandatory": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 1, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 0, "trust": 0, "timing": -1 } }
+  ],
+  "hybrid_approach": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 0, "trust": 0, "timing": -1 } }
+  ],
+  "age_targeting": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 4 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "both_seminars_2": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "budget_fit": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 4 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "seminar_results_2": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "action_oriented": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 0, "timing": -1 } }
+  ],
+  "closing_proposal": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 4 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 0, "timing": -1 } }
+  ],
+  "just_acknowledge_2": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "just_empathy_2": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": 0 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": 0 } }
+  ],
+  "seminar_concept": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "next_action_2": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 3, "trust": 0, "timing": -1 } }
+  ],
+  "gap_solution": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 1, "timing": 0 } }
+  ],
+  "target_audience": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "phased_approach": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "ask_data_2": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 4, "timing": 1 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 3, "timing": 0 } }
+  ],
+  "tailored_plan": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 1, "trust": 4, "timing": 4 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "ask_demographics_2": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 3, "specificity": 3, "trust": 1, "timing": -3 } }
+  ],
+  "parent_age_2": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": 3, "timing": 0 } }
+  ],
+  "consultation_intro": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "consultation_detail": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "package_approach": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "three_pillars": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 4, "timing": 4 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "flow_explanation": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "flexible_approach": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "lcat_intro_2": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "lcat_detail_2": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 4, "timing": 2 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": 0 } }
+  ],
+  "lcat_positioning": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "manager_seminar": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "manager_detail": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "seminar_timing": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 4, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 3, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": -1, "specificity": -1, "trust": 0, "timing": -1 } }
+  ],
+  "premature_pitch_2": [
+    { "index": 0, "scores": { "structure": 1, "specificity": 0, "trust": 1, "timing": 2 } },
+    { "index": 1, "scores": { "structure": -1, "specificity": 0, "trust": -1, "timing": -1 } },
+    { "index": 2, "scores": { "structure": -3, "specificity": 0, "trust": -3, "timing": -1 } }
+  ],
+  "recovery_question": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 2 } },
+    { "index": 2, "scores": { "structure": -3, "specificity": 0, "trust": -3, "timing": -3 } }
+  ],
+  "explain_seminar": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 1, "specificity": 3, "trust": 1, "timing": 0 } },
+    { "index": 2, "scores": { "structure": 0, "specificity": 0, "trust": -1, "timing": -1 } }
+  ],
+  "seminar_proposal": [
+    { "index": 0, "scores": { "structure": 4, "specificity": 3, "trust": 3, "timing": 3 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 3, "timing": 1 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 3, "trust": 1, "timing": 0 } }
+  ],
+  "seminar_format": [
+    { "index": 0, "scores": { "structure": 3, "specificity": 4, "trust": 3, "timing": 2 } },
+    { "index": 1, "scores": { "structure": 3, "specificity": 1, "trust": 4, "timing": 3 } },
+    { "index": 2, "scores": { "structure": 1, "specificity": 1, "trust": 0, "timing": -1 } }
+  ],
+  "push_pitch": [],
+  "weak_proposal": [],
+  "flexible_timing": [],
+  "miss_opportunity_ending": [],
+  "defer_detail": [],
+  "push_mandatory": [],
+  "defer_decision": [],
+  "weak_close": []
+}

@@ -15,14 +15,14 @@ export function middleware(request: NextRequest) {
     });
   }
 
-  const [scheme, encoded] = authHeader.split(' ');
-
-  if (scheme !== 'Basic' || !encoded) {
-    return new NextResponse('Invalid authentication', { status: 401 });
+  if (!authHeader.startsWith('Basic ')) {
+    return new NextResponse('Invalid authentication scheme', { status: 401 });
   }
 
-  const decoded = atob(encoded);
-  const [user, password] = decoded.split(':');
+  const base64 = authHeader.slice(6);
+  const decoded = atob(base64);
+  const [user, ...passwordParts] = decoded.split(':');
+  const password = passwordParts.join(':');
 
   const validUser = process.env.BASIC_AUTH_USER || 'bc';
   const validPassword = process.env.BASIC_AUTH_PASSWORD || 'demo';
